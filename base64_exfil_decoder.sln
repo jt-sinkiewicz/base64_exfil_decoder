@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "base64_exfil_decoder", "base64_exfil_decoder.pyproj", "{22F01C7F-098F-44AF-8DE9-81DECFC2B915}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22F01C7F-098F-44AF-8DE9-81DECFC2B915}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22F01C7F-098F-44AF-8DE9-81DECFC2B915}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41028517-65CF-4354-B5E7-57511CB4086B}
+	EndGlobalSection
+EndGlobal
