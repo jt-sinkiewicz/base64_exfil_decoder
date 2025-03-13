@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>22f01c7f-098f-44af-8de9-81decfc2b915</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>base64_exfil_decoder_0.2.py</StartupFile>
+    <StartupFile>base64_exfil_decoder_0.3.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -13,7 +13,7 @@
     <RootNamespace>base64_exfil_decoder</RootNamespace>
     <IsWindowsApplication>False</IsWindowsApplication>
     <LaunchProvider>Standard Python launcher</LaunchProvider>
-    <CommandLineArguments>"C:\DATA\Forensics\Python Stuff\Cyber\exfil decoder\Traffic to 45.66.248.169_7-30_8-31_1729193989902_1.log" "C:\DATA\Forensics\Python Stuff\Cyber\exfil decoder\test_out\test-2.csv"</CommandLineArguments>
+    <CommandLineArguments>"C:\DATA\Forensics\Python Stuff\Cyber\exfil decoder\Traffic to 45.66.248.169_7-30_8-31_1729193989902_1.log" "C:\DATA\Forensics\Python Stuff\Cyber\exfil decoder\test_out\test-3.csv"</CommandLineArguments>
     <EnableNativeCodeDebugging>False</EnableNativeCodeDebugging>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
@@ -25,7 +25,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="base64_exfil_decoder_0.2.py" />
+    <Compile Include="base64_exfil_decoder_0.3.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
